@@ -6,7 +6,7 @@ who also currently maintains all of the plugins. If you need to contact the deve
 ## Main Plugins
 
 These are the primary plugins that are actively developed and available publicly on Spigot:
-- HexNicks - Nickname plugin with hex color code and gradient support.
-- PartyChat - Chat plugin that allows players to chat with their friends in private parties.
-- PvPToggle - Small plugin that lets player change their PvP status.
-- SimpleHomes - Base homes plugin with all the essential features. 
+- [HexNicks](https://github.com/MajekDev/HexNicks) - Nickname plugin with hex color code and gradient support.
+- [PartyChat](https://github.com/MajekDev/PartyChat) - Chat plugin that allows players to chat with their friends in private parties.
+- [PvPToggle](https://github.com/MajekDev/PvPToggle) - Small plugin that lets player change their PvP status.
+- [SimpleHomes](https://github.com/MajekDev/SimpleHomes) - Base homes plugin with all the essential features. 
